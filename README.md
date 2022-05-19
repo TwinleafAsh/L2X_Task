@@ -12,4 +12,4 @@
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots
-![Dashboard] 
+![Dashboard](https://user-images.githubusercontent.com/75353197/169361848-a289b91f-3f04-4851-9022-36443b884448.png)
