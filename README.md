@@ -13,3 +13,4 @@
 
 ### Screenshots
 ![Dashboard](https://user-images.githubusercontent.com/75353197/169361848-a289b91f-3f04-4851-9022-36443b884448.png)
+![Data added](https://user-images.githubusercontent.com/75353197/169362144-6cc158e9-60e9-4c01-b4dc-4d0f02210579.png)
